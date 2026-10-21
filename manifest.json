@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sajidali3436-beep.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "S Music Player",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "smusic"
+}
